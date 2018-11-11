@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming/Data_Structure/Linked_List/Josephus_problem.h
+
+D:/Programming/Data_Structure/Linked_List/main.cpp
+iostream
+-
+Josephus_problem.h
+D:/Programming/Data_Structure/Linked_List/Josephus_problem.h
+string
+-
+stdlib.h
+-
+stdio.h
+-
+
